@@ -1,2 +1,2 @@
 # myJavaProjects
-my first java project with git. beginner in java programming and git
+my first java project with git. Let see how it goes!
